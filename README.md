@@ -35,4 +35,4 @@ In this assignment, we will take a deep dive into the core components of the Flo
 ## Setup
 
 Clone this repository and upload the notebook file `flow_matching.ipynb` to [Google Colab](https://colab.research.google.com).  
-All instructions—including task descriptions and submission guidelines—are provided in the notebook file. Please follow them carefully to complete the tasks.
+**All instructions—including task descriptions and submission guidelines—are provided in the notebook file. Please follow them carefully to complete the tasks.**
